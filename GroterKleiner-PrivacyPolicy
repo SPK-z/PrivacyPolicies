@@ -1,8 +1,10 @@
-## Groter/Kleiner: Privacy policy
+## Higher/Lower: Privacy policy
 
-Welcome to the Groter/Kleiner app for Android. The app is available on Google Play.
+Welcome to the Higher/Lower app for Android. The app is available on Google Play.
 
-The application is not programmed to collect any personally identifiable information whatsoever.
+The application is not programmed to collect any personally identifiable information automatically.
+
+The only instance in which data is stored is when a high score is achieved, and the player chooses to enter his/her name. However, this does not have to be his/her actual name. The high score list is stored locally and cannot be accessed by other apps or third parties. It may also be cleared at any moment by pushing the trash can icon on the high scores screen.
 
 If you nevertheless find a security vulnerability, or have any privacy concerning question related to this app, please be in touch.
 
