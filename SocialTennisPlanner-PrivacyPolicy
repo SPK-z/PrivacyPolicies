@@ -2,11 +2,11 @@
 
 Welcome to the Social Tennis Planner app for Android. The app is available on Google Play.
 
-The application is not programmed to collect any personally identifiable information automatically.
+The application does not collect any personally identifiable information automatically.
 
-Inherent to the situation for which this application was designed, player names are required. However, these need not be actual names.
+However, inherent to the situation for which this application was designed, player names are required. Obviously, these need not be actual names. More importantly, the list of names is inaccessible to other apps or third parties. The list may be cleared at any time by pushing the trash can icon at the bottom right of the players screen.
 
-Player names may be saved for later use. These names are stored locally and cannot be accessed by other apps or third parties. They may also be deleted at any moment by pushing the trash can icon on the players screen.
+Player names may be saved for later use. These names are stored locally and cannot be accessed by other apps or third parties. They may also be deleted at any moment by saving an empty list of players.
 
 If you nevertheless find a security vulnerability, or have any privacy concerning question related to this app, please be in touch.
 
